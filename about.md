@@ -8,8 +8,8 @@ Welcome to my Site!
 
 ### More Information
 
-Name: AQUILINO CLAVERON
 Address: Cabanatuan City, Nueva Ecija
+
 
 ### Contact me
 
