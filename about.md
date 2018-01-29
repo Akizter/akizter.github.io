@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my Site!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Name: AQUILINO CLAVERON
+Address: Cabanatuan City, Nueva Ecija
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[akibeat007@gmail.com](mailto:akibeat007@gmail.com)
